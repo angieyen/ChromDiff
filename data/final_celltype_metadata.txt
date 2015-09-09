@@ -1,0 +1,128 @@
+ID	filepath	color	name	anatomy	type	lab	age	sex	solid_liquid	ethnicity	SD_C	specialgi
+E017	statecalls/core/E017_15_coreMarks_mnemonics.bed.gz	#E41A1C	IMR90 fetal lung fibroblasts Cell Line	LUNG	CellLine	UCSD	Other	Female	NA	NA	SD	LUNG
+E002	statecalls/core/E002_15_coreMarks_mnemonics.bed.gz	#924965	ES-WA7 Cells	ESC	PrimaryCulture	BI	Other	Female	NA	NA	SD	ESC
+E008	statecalls/core/E008_15_coreMarks_mnemonics.bed.gz	#924965	H9 Cells	ESC	PrimaryCulture	UCSD	Other	Female	NA	NA	SD	ESC
+E001	statecalls/core/E001_15_coreMarks_mnemonics.bed.gz	#924965	ES-I3 Cells	ESC	PrimaryCulture	BI	Other	Female	NA	NA	SD	ESC
+E015	statecalls/core/E015_15_coreMarks_mnemonics.bed.gz	#924965	HUES6 Cells	ESC	PrimaryCulture	BI	Other	Female	NA	NA	SD	ESC
+E014	statecalls/core/E014_15_coreMarks_mnemonics.bed.gz	#924965	HUES48 Cells	ESC	PrimaryCulture	BI	Other	Female	NA	NA	SD	ESC
+E016	statecalls/core/E016_15_coreMarks_mnemonics.bed.gz	#924965	HUES64 Cells	ESC	PrimaryCulture	BI	Other	Male	NA	NA	SD	ESC
+E003	statecalls/core/E003_15_coreMarks_mnemonics.bed.gz	#924965	H1 Cells	ESC	PrimaryCulture	BI;UCSD;UCSF-UBC	Other	Male	NA	NA	SD	ESC
+E024	statecalls/core/E024_15_coreMarks_mnemonics.bed.gz	#924965	ES-UCSF4 Cells	ESC	PrimaryCulture	UCSF-UBC	Other	Female	NA	NA	SD	ESC
+E020	statecalls/core/E020_15_coreMarks_mnemonics.bed.gz	#69608A	iPS-20b Cells	IPSC	PrimaryCulture	BI	Other	Male	NA	NA	SD	IPSC
+E019	statecalls/core/E019_15_coreMarks_mnemonics.bed.gz	#69608A	iPS-18 Cells	IPSC	PrimaryCulture	BI	Other	Female	NA	NA	SD	IPSC
+E018	statecalls/core/E018_15_coreMarks_mnemonics.bed.gz	#69608A	iPS-15b Cells	IPSC	PrimaryCulture	BI	Other	Female	NA	NA	SD	IPSC
+E021	statecalls/core/E021_15_coreMarks_mnemonics.bed.gz	#69608A	iPS DF 6.9 Cells	IPSC	PrimaryCulture	UCSD	Other	Male	NA	NA	SD	IPSC
+E022	statecalls/core/E022_15_coreMarks_mnemonics.bed.gz	#69608A	iPS DF 19.11 Cells	IPSC	PrimaryCulture	UCSD	Other	Male	NA	NA	SD	IPSC
+E007	statecalls/core/E007_15_coreMarks_mnemonics.bed.gz	#4178AE	H1 Derived Neuronal Progenitor Cultured Cells	ESC_DERIVED	ESCDerived	UCSD	Other	Male	NA	NA	SD	ESC_DERIVED
+E009	statecalls/core/E009_15_coreMarks_mnemonics.bed.gz	#4178AE	H9 Derived Neuronal Progenitor Cultured Cells	ESC_DERIVED	ESCDerived	BI	Other	Female	NA	NA	SD	ESC_DERIVED
+E010	statecalls/core/E010_15_coreMarks_mnemonics.bed.gz	#4178AE	H9 Derived Neuron Cultured Cells	ESC_DERIVED	ESCDerived	BI	Other	Female	NA	NA	SD	ESC_DERIVED
+E013	statecalls/core/E013_15_coreMarks_mnemonics.bed.gz	#4178AE	hESC Derived CD56+ Mesoderm Cultured Cells	ESC_DERIVED	ESCDerived	BI	Other	Male	NA	NA	SD	ESC_DERIVED
+E012	statecalls/core/E012_15_coreMarks_mnemonics.bed.gz	#4178AE	hESC Derived CD56+ Ectoderm Cultured Cells	ESC_DERIVED	ESCDerived	BI	Other	Male	NA	NA	SD	ESC_DERIVED
+E011	statecalls/core/E011_15_coreMarks_mnemonics.bed.gz	#4178AE	hESC Derived CD184+ Endoderm Cultured Cells	ESC_DERIVED	ESCDerived	BI	Other	Male	NA	NA	SD	ESC_DERIVED
+E004	statecalls/core/E004_15_coreMarks_mnemonics.bed.gz	#4178AE	H1 BMP4 Derived Mesendoderm Cultured Cells	ESC_DERIVED	ESCDerived	UCSD	Other	Male	NA	NA	SD	ESC_DERIVED
+E005	statecalls/core/E005_15_coreMarks_mnemonics.bed.gz	#4178AE	H1 BMP4 Derived Trophoblast Cultured Cells	ESC_DERIVED	ESCDerived	UCSD	Other	Male	NA	NA	SD	ESC_DERIVED
+E006	statecalls/core/E006_15_coreMarks_mnemonics.bed.gz	#4178AE	H1 Derived Mesenchymal Stem Cells	ESC_DERIVED	ESCDerived	UCSD	Other	Male	NA	NA	SD	ESC_DERIVED
+E062	statecalls/core/E062_15_coreMarks_mnemonics.bed.gz	#55A354	Primary mononuclear cells from peripheral blood	BLOOD	PrimaryCell	UCSF-UBC	Adult	Male	LIQUID	"Caucasian, Indian/Arabian"	C	BLOOD
+E034	statecalls/core/E034_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T cells from peripheral blood	BLOOD	PrimaryCell	UW	Adult	Male	LIQUID	"Caucasian, Hispanic"	C	BLOOD
+E045	statecalls/core/E045_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T cells effector/memory enriched from peripheral blood	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E033	statecalls/core/E033_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T cells from cord blood	BLOOD	PrimaryCell	BI	Fetal	Unknown	LIQUID	Unknown	C	BLOOD
+E044	statecalls/core/E044_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T regulatory cells from peripheral blood	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E043	statecalls/core/E043_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper cells from peripheral blood	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E039	statecalls/core/E039_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper naive cells from peripheral blood	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E041	statecalls/core/E041_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper cells PMA-I stimulated	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E042	statecalls/core/E042_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper 17 cells PMA-I stimulated	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E040	statecalls/core/E040_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper memory cells from peripheral blood 1	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E037	statecalls/core/E037_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper memory cells from peripheral blood 2	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E048	statecalls/core/E048_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T CD8+ memory cells from peripheral blood	BLOOD	PrimaryCell	BI	Other	Unknown	LIQUID	Unknown	C	BLOOD
+E038	statecalls/core/E038_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T helper naive cells from peripheral blood	BLOOD	PrimaryCell	BI;UCSF-UBC	Other	Mixed	LIQUID	Unknown	C	BLOOD
+E047	statecalls/core/E047_15_coreMarks_mnemonics.bed.gz	#55A354	Primary T CD8+ naive cells from peripheral blood	BLOOD	PrimaryCell	BI;UCSF-UBC	Other	Mixed	LIQUID	Unknown	C	BLOOD
+E029	statecalls/core/E029_15_coreMarks_mnemonics.bed.gz	#678C69	Primary monocytes from peripheral blood	BLOOD	PrimaryCell	UW	Adult	Male	LIQUID	"Hispanic, Unknown"	C	BLOOD
+E031	statecalls/core/E031_15_coreMarks_mnemonics.bed.gz	#678C69	Primary B cells from cord blood	BLOOD	PrimaryCell	BI	Fetal	Mixed	LIQUID	Unknown	C	BLOOD
+E035	statecalls/core/E035_15_coreMarks_mnemonics.bed.gz	#678C69	Primary hematopoietic stem cells	BLOOD	PrimaryCell	BI	Fetal	Unknown	LIQUID	Unknown	C	BLOOD
+E051	statecalls/core/E051_15_coreMarks_mnemonics.bed.gz	#678C69	Primary hematopoietic stem cells G-CSF-mobilized Male	BLOOD	PrimaryCell	BI	Adult	Male	LIQUID	Caucasian	SD	BLOOD
+E050	statecalls/core/E050_15_coreMarks_mnemonics.bed.gz	#678C69	Primary hematopoietic stem cells G-CSF-mobilized Female	BLOOD	PrimaryCell	BI	Fetal	Mixed	LIQUID	Unknown	C	BLOOD
+E036	statecalls/core/E036_15_coreMarks_mnemonics.bed.gz	#678C69	Primary hematopoietic stem cells short term culture	BLOOD	PrimaryCell	BI	Fetal	Unknown	LIQUID	Unknown	C	BLOOD
+E032	statecalls/core/E032_15_coreMarks_mnemonics.bed.gz	#678C69	Primary B cells from peripheral blood	BLOOD	PrimaryCell	UW	Adult	Male	LIQUID	"Caucasian, Hispanic"	C	BLOOD
+E046	statecalls/core/E046_15_coreMarks_mnemonics.bed.gz	#678C69	Primary Natural Killer cells from peripheral blood	BLOOD	PrimaryCell	UW	Adult	Male	LIQUID	"Caucasian, Hispanic"	C	BLOOD
+E030	statecalls/core/E030_15_coreMarks_mnemonics.bed.gz	#678C69	Primary neutrophils from peripheral blood	BLOOD	PrimaryCell	BI	Fetal	Male	LIQUID	Unknown	SD	BLOOD
+E026	statecalls/core/E026_15_coreMarks_mnemonics.bed.gz	#B65C73	Bone Marrow Derived Cultured Mesenchymal Stem Cells	STROMAL_CONNECTIVE	PrimaryCulture	BI	Adult	Unknown	SOLID	Unknown	SD	STROMAL_CONNECTIVE
+E049	statecalls/core/E049_15_coreMarks_mnemonics.bed.gz	#B65C73	Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells	STROMAL_CONNECTIVE	PrimaryCulture	BI	Other	Unknown	SOLID	Unknown	C	STROMAL_CONNECTIVE
+E025	statecalls/core/E025_15_coreMarks_mnemonics.bed.gz	#B65C73	Adipose Derived Mesenchymal Stem Cell Cultured Cells	FAT	PrimaryCulture	BI	Adult	Female	SOLID	Unknown	C	FAT
+E023	statecalls/core/E023_15_coreMarks_mnemonics.bed.gz	#B65C73	Mesenchymal Stem Cell Derived Adipocyte Cultured Cells	FAT	PrimaryCulture	BI	Other	Female	NA	NA	SD	FAT
+E052	statecalls/core/E052_15_coreMarks_mnemonics.bed.gz	#E67326	Muscle Satellite Cultured Cells	MUSCLE	PrimaryCulture	BI	Other	Unknown	SOLID	Unknown	C	MUSCLE
+E055	statecalls/core/E055_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Fibroblast Primary Cells skin01	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E056	statecalls/core/E056_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Fibroblast Primary Cells skin02	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E059	statecalls/core/E059_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Melanocyte Primary Cells skin01	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E061	statecalls/core/E061_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Melanocyte Primary Cells skin03	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E057	statecalls/core/E057_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Keratinocyte Primary Cells skin02	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E058	statecalls/core/E058_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Foreskin Keratinocyte Primary Cells skin03	SKIN	PrimaryCulture	UCSF-UBC	Other	Male	SOLID	Unknown	SD	SKIN
+E028	statecalls/core/E028_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Breast variant Human Mammary Epithelial Cells (vHMEC)	BREAST	PrimaryCulture	UCSF-UBC	Adult	Female	SOLID	Caucasian	SD	BREAST
+E027	statecalls/core/E027_15_coreMarks_mnemonics.bed.gz	#FF9D0C	Breast Myoepithelial Primary Cells	BREAST	PrimaryCell	UCSF-UBC	Adult	Female	SOLID	"African-American, African-American"	C	BREAST
+E054	statecalls/core/E054_15_coreMarks_mnemonics.bed.gz	#FFD924	Ganglion Eminence derived primary cultured neurospheres	BRAIN	PrimaryCulture	UCSF-UBC	Fetal	Female	SOLID	Unknown	SD	BRAIN
+E053	statecalls/core/E053_15_coreMarks_mnemonics.bed.gz	#FFD924	Cortex derived primary cultured neurospheres	BRAIN	PrimaryCulture	UCSF-UBC	Fetal	Female	SOLID	Unknown	SD	BRAIN
+E112	statecalls/core/E112_15_coreMarks_mnemonics.bed.gz	#EFE131	Thymus	THYMUS	PrimaryTissue	UCSD	Other	Male	SOLID	Caucasian/African American	SD	THYMUS
+E093	statecalls/core/E093_15_coreMarks_mnemonics.bed.gz	#EFE131	Fetal Thymus	THYMUS	PrimaryTissue	UW	Fetal	Female		Unknown	SD	THYMUS
+E071	statecalls/core/E071_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Hippocampus Middle	BRAIN	PrimaryTissue	BI	Adult	Male	SOLID	Unknown	C	BRAIN
+E074	statecalls/core/E074_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Substantia Nigra	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E068	statecalls/core/E068_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Anterior Caudate	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E069	statecalls/core/E069_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Cingulate Gyrus	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E072	statecalls/core/E072_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Inferior Temporal Lobe	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E067	statecalls/core/E067_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Angular Gyrus	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E073	statecalls/core/E073_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain_Dorsolateral_Prefrontal_Cortex	BRAIN	PrimaryTissue	BI	Adult	Mixed	SOLID	Unknown	C	BRAIN
+E070	statecalls/core/E070_15_coreMarks_mnemonics.bed.gz	#C5912B	Brain Germinal Matrix	BRAIN	PrimaryTissue	UCSF-UBC	Fetal	Male	SOLID	Unknown	SD	BRAIN
+E082	statecalls/core/E082_15_coreMarks_mnemonics.bed.gz	#C5912B	Fetal Brain Female	BRAIN	PrimaryTissue	UCSF-UBC	Fetal	Female	SOLID	Unknown	C	BRAIN
+E081	statecalls/core/E081_15_coreMarks_mnemonics.bed.gz	#C5912B	Fetal Brain Male	BRAIN	PrimaryTissue	BI	Fetal	Male/Unknown	SOLID	Unknown	C	BRAIN
+E063	statecalls/core/E063_15_coreMarks_mnemonics.bed.gz	#AF5B39	Adipose Nuclei	FAT	PrimaryTissue	BI	Adult	Female	SOLID	Unknown	C	FAT
+E100	statecalls/core/E100_15_coreMarks_mnemonics.bed.gz	#C2655D	Psoas Muscle	MUSCLE	PrimaryTissue	UCSD	Adult	Male	SOLID	"Caucasian/African American, Caucasian"	C	MUSCLE
+E108	statecalls/core/E108_15_coreMarks_mnemonics.bed.gz	#C2655D	Skeletal Muscle Female	MUSCLE	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	MUSCLE
+E107	statecalls/core/E107_15_coreMarks_mnemonics.bed.gz	#C2655D	Skeletal Muscle Male	MUSCLE	PrimaryTissue	BI	Adult	Male	SOLID	Caucasian	SD	MUSCLE
+E089	statecalls/core/E089_15_coreMarks_mnemonics.bed.gz	#C2655D	Fetal Muscle Trunk	MUSCLE	PrimaryTissue	UW	Fetal	Female		Unknown	SD	MUSCLE
+E090	statecalls/core/E090_15_coreMarks_mnemonics.bed.gz	#C2655D	Fetal Muscle Leg	MUSCLE_LEG	PrimaryTissue	UW	Fetal	Female		Unknown	SD	MUSCLE_LEG
+E083	statecalls/core/E083_15_coreMarks_mnemonics.bed.gz	#D56F80	Fetal Heart	HEART	PrimaryTissue	BI	Fetal	Mixed	SOLID	Unknown	C	HEART
+E104	statecalls/core/E104_15_coreMarks_mnemonics.bed.gz	#D56F80	Right Atrium	HEART	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	HEART
+E095	statecalls/core/E095_15_coreMarks_mnemonics.bed.gz	#D56F80	Left Ventricle	HEART	PrimaryTissue	UCSD	Adult	Male	SOLID	"Caucasian/African American, Caucasian"	C	HEART
+E105	statecalls/core/E105_15_coreMarks_mnemonics.bed.gz	#D56F80	Right Ventricle	HEART	PrimaryTissue	UCSD	Adult	Male	SOLID	"Caucasian/African American, Caucasian"	C	HEART
+E065	statecalls/core/E065_15_coreMarks_mnemonics.bed.gz	#D56F80	Aorta	VASCULAR	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	VASCULAR
+E078	statecalls/core/E078_15_coreMarks_mnemonics.bed.gz	#C58DAA	Duodenum Smooth Muscle	GI_DUODENUM	PrimaryTissue	BI	Adult	Male	SOLID	Caucasian	C	GI
+E076	statecalls/core/E076_15_coreMarks_mnemonics.bed.gz	#C58DAA	Colon Smooth Muscle	GI_COLON	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	C	GI
+E103	statecalls/core/E103_15_coreMarks_mnemonics.bed.gz	#C58DAA	Rectal Smooth Muscle	GI_RECTUM	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	GI
+E111	statecalls/core/E111_15_coreMarks_mnemonics.bed.gz	#C58DAA	Stomach Smooth Muscle	GI_STOMACH	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	GI
+E092	statecalls/core/E092_15_coreMarks_mnemonics.bed.gz	#C58DAA	Fetal Stomach	GI_STOMACH	PrimaryTissue	UW	Other	Female			C	GI
+E085	statecalls/core/E085_15_coreMarks_mnemonics.bed.gz	#C58DAA	Fetal Intestine Small	GI_INTESTINE	PrimaryTissue	UW	Fetal	Male		Unknown	SD	GI
+E084	statecalls/core/E084_15_coreMarks_mnemonics.bed.gz	#C58DAA	Fetal Intestine Large	GI_INTESTINE	PrimaryTissue	UW	Fetal	Male		Unknown	SD	GI
+E109	statecalls/core/E109_15_coreMarks_mnemonics.bed.gz	#C58DAA	Small Intestine	GI_INTESTINE	PrimaryTissue	UCSD	Adult	Male	SOLID	"Caucasian/African American, Caucasian"	C	GI
+E106	statecalls/core/E106_15_coreMarks_mnemonics.bed.gz	#C58DAA	Sigmoid Colon	GI_COLON	PrimaryTissue	UCSD	Adult	Male	SOLID	"Caucasian/African American, Caucasian"	C	GI
+E075	statecalls/core/E075_15_coreMarks_mnemonics.bed.gz	#C58DAA	Colonic Mucosa	GI_COLON	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	GI
+E101	statecalls/core/E101_15_coreMarks_mnemonics.bed.gz	#C58DAA	Rectal Mucosa Donor 29	GI_RECTUM	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	GI
+E102	statecalls/core/E102_15_coreMarks_mnemonics.bed.gz	#C58DAA	Rectal Mucosa Donor 31	GI_RECTUM	PrimaryTissue	BI	Adult	Female	SOLID	Caucasian	SD	GI
+E110	statecalls/core/E110_15_coreMarks_mnemonics.bed.gz	#C58DAA	Stomach Mucosa	GI_STOMACH	PrimaryTissue	BI	Adult	Male	SOLID	Caucasian	SD	GI
+E077	statecalls/core/E077_15_coreMarks_mnemonics.bed.gz	#C58DAA	Duodenum Mucosa	GI_DUODENUM	PrimaryTissue	BI	Adult	Male	SOLID	Caucasian	SD	GI
+E079	statecalls/core/E079_15_coreMarks_mnemonics.bed.gz	#C58DAA	Esophagus	GI_ESOPHAGUS	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	GI
+E094	statecalls/core/E094_15_coreMarks_mnemonics.bed.gz	#C58DAA	Gastric	GI_STOMACH	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	GI
+E099	statecalls/core/E099_15_coreMarks_mnemonics.bed.gz	#999999	Placenta Amnion	PLACENTA	PrimaryTissue	UCSF-UBC	Fetal	Male	SOLID	African American	SD	PLACENTA
+E086	statecalls/core/E086_15_coreMarks_mnemonics.bed.gz	#999999	Fetal Kidney	KIDNEY	PrimaryTissue	BI	Fetal	Unknown	SOLID	Unknown	SD	KIDNEY
+E088	statecalls/core/E088_15_coreMarks_mnemonics.bed.gz	#999999	Fetal Lung	LUNG	PrimaryTissue	BI	Other	Female/Unknown			C	LUNG
+E097	statecalls/core/E097_15_coreMarks_mnemonics.bed.gz	#999999	Ovary	OVARY	PrimaryTissue	UCSD	Adult	Female	SOLID	Caucasian	SD	OVARY
+E087	statecalls/core/E087_15_coreMarks_mnemonics.bed.gz	#999999	Pancreatic Islets	PANCREAS	PrimaryTissue	BI;UCSF-UBC	Adult	Male	SOLID	"Unknown, Unknown, Caucasian"	C	PANCREAS
+E080	statecalls/core/E080_15_coreMarks_mnemonics.bed.gz	#999999	Fetal Adrenal Gland	ADRENAL	PrimaryTissue	UW	Fetal	Male		Unknown	SD	ADRENAL
+E091	statecalls/core/E091_15_coreMarks_mnemonics.bed.gz	#999999	Placenta	PLACENTA	PrimaryTissue	UW	Fetal	Female		Unknown	SD	PLACENTA
+E066	statecalls/core/E066_15_coreMarks_mnemonics.bed.gz	#999999	Liver	LIVER	PrimaryTissue	BI	Other	Mixed	SOLID	Unknown	C	LIVER
+E098	statecalls/core/E098_15_coreMarks_mnemonics.bed.gz	#999999	Pancreas	PANCREAS	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	PANCREAS
+E096	statecalls/core/E096_15_coreMarks_mnemonics.bed.gz	#999999	Lung	LUNG	PrimaryTissue	UCSD	Adult	Female	SOLID	Caucasian	SD	LUNG
+E113	statecalls/core/E113_15_coreMarks_mnemonics.bed.gz	#999999	Spleen	SPLEEN	PrimaryTissue	UCSD	Adult	Male	SOLID	Caucasian	SD	SPLEEN
+E114	statecalls/core/E114_15_coreMarks_mnemonics.bed.gz		A549 EtOH 0.02pct Lung Carcinoma Cell Line	LUNG	CellLine	BI	Other	Male				LUNG
+E115	statecalls/core/E115_15_coreMarks_mnemonics.bed.gz		Dnd41 TCell Leukemia Cell Line	BLOOD	CellLine	BI	Other	Male				BLOOD
+E116	statecalls/core/E116_15_coreMarks_mnemonics.bed.gz		GM12878 Lymphoblastoid Cells	BLOOD	PrimaryCulture	BI	Other	Female				BLOOD
+E117	statecalls/core/E117_15_coreMarks_mnemonics.bed.gz		HeLa-S3 Cervical Carcinoma Cell Line	CERVIX	CellLine	BI	Other	Female				CERVIX
+E118	statecalls/core/E118_15_coreMarks_mnemonics.bed.gz		HepG2 Hepatocellular Carcinoma Cell Line	LIVER	CellLine	BI	Other	Male				LIVER
+E119	statecalls/core/E119_15_coreMarks_mnemonics.bed.gz		HMEC Mammary Epithelial Primary Cells	BREAST	PrimaryCulture	BI	Other	Unknown				BREAST
+E120	statecalls/core/E120_15_coreMarks_mnemonics.bed.gz		HSMM Skeletal Muscle Myoblasts Cells	MUSCLE	PrimaryCulture	BI	Other	Unknown				MUSCLE
+E121	statecalls/core/E121_15_coreMarks_mnemonics.bed.gz		HSMM cell derived Skeletal Muscle Myotubes Cells	MUSCLE	PrimaryCulture	BI	Other	Unknown				MUSCLE
+E122	statecalls/core/E122_15_coreMarks_mnemonics.bed.gz		HUVEC Umbilical Vein Endothelial Primary Cells	VASCULAR	PrimaryCulture	BI	Other	Unknown				VASCULAR
+E123	statecalls/core/E123_15_coreMarks_mnemonics.bed.gz		K562 Leukemia Cells	BLOOD	PrimaryCulture	BI	Other	Female				BLOOD
+E124	statecalls/core/E124_15_coreMarks_mnemonics.bed.gz		Monocytes-CD14+ RO01746 Primary Cells	BLOOD	PrimaryCell	BI	Other	Female				BLOOD
+E125	statecalls/core/E125_15_coreMarks_mnemonics.bed.gz		NH-A Astrocytes Primary Cells	BRAIN	PrimaryCulture	BI	Other	Unknown				BRAIN
+E126	statecalls/core/E126_15_coreMarks_mnemonics.bed.gz		NHDF-Ad Adult Dermal Fibroblast Primary Cells	SKIN	PrimaryCulture	BI	Other	Female				SKIN
+E127	statecalls/core/E127_15_coreMarks_mnemonics.bed.gz		NHEK-Epidermal Keratinocyte Primary Cells	SKIN	PrimaryCulture	BI	Other	Unknown				SKIN
+E128	statecalls/core/E128_15_coreMarks_mnemonics.bed.gz		NHLF Lung Fibroblast Primary Cells	LUNG	PrimaryCulture	BI	Other	Unknown				LUNG
+E129	statecalls/core/E129_15_coreMarks_mnemonics.bed.gz		Osteoblast Primary Cells	BONE	PrimaryCulture	BI	Other	Unknown				BONE
