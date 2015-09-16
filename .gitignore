@@ -1,0 +1,9 @@
+/test_all_properties.sh
+/test_in_parallel.sh
+/jobs/
+/statecalls/
+/exp.pvals/
+/msigdb/rdata/
+/msigdb/results/
+/plots/
+.DS_Store

@@ -19,9 +19,9 @@ testone=FALSE
 covar.corr.off=FALSE
 
 if(testone) {
-	property="specialgi"
-	a.label="BRAIN"
-	b.label="GI"
+	property="type"
+	a.label="CellLine"
+	b.label="PrimaryCulture"
 	test="wilcox"
 	test.correction="fdr"
 	#window=1

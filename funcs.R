@@ -248,7 +248,7 @@ get_residuals <- function(model, metric, dependentvariable, no_covariate_correct
 					if(all(is.na(curr.vec)==FALSE)) {
 						vecLoaded=TRUE
 					}
-				} 
+				}
 				if (!vecLoaded) {
 					if (file.exists(datafile) && file.info(datafile)$size>0) {
 						print(paste0("Reading data file for ", celltypes.list[ind], "..."))
@@ -463,9 +463,8 @@ comp.groups <- function(property, group.a, group.b, a.label, b.label, metrics="p
 				
 				featnames=get_featnames(model, metric)
 			
-				save(list=ls(all=TRUE), file="tmp.rdata")
 				pvals.success=FALSE
-				## read pval from rdata file pv.file (NOTE: doesn't need correction, because they are raw p-values, but for legacy reasons, we try tmp.pv.file which uses the pv.file with "fdr" in the filename)
+				## read pval from rdata file pv.file (NOTE: doesn't involve correction, because they are raw p-values, but for legacy reasons, we try tmp.pv.file which uses the pv.file with "fdr" in the filename)
 				if(file.exists(tmp.pv.file) && file.info(tmp.pv.file)$size>0) {
 					print(paste("Loading pvals from", tmp.pv.file, "..."))
                     tryCatch( {load(tmp.pv.file); 

@@ -13,13 +13,17 @@
 
 # You should have received a copy of the GNU General Public License
 # along with ChromDiff.  If not, see <http://www.gnu.org/licenses/>.
+
+source /broad/software/scripts/useuse
+reuse -q .r-3.0.2-bioconductor-2.13
+
 property=$1
 a_label=$2
 b_label=$3
 test_type=$4
 correction=$5
-heightcutoff=$6
-curr_label=$7
+curr_label=$6
+heightcutoff=$7
 metadatafile=$8
 genefile=${9}
 covariate_mat_file=${10}

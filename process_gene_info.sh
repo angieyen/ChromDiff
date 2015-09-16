@@ -22,4 +22,5 @@ mkdir -p genes/${generegions_label}
 awk 'BEGIN{OFS="\t"} {print $1, $2, $3, $4, $5}' $genefile > genes/${generegions_label}/genes.bed
 ## genenames are sorted lexicographically
 awk '(index($1, "#")!=1){print $5}' genes/${generegions_label}/genes.bed | sort -k1,1 > genes/${generegions_label}/genenames.txt
-awk '(match($1, "#")==0) {print $6}' $genefile | sort | uniq | wc -l > genes/${generegions_label}/gencode_mapped_symbols.bed
+awk '(match($1, "#")==0) {print $6}' $genefile | sort | uniq  > genes/${generegions_label}/gencode_mapped_symbols.bed
+wc -l genes/${generegions_label}/gencode_mapped_symbols.bed > genes/${generegions_label}/num_gencode_mapped_symbols.bed

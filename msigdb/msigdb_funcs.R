@@ -27,7 +27,6 @@ get_msigdata = function(msigdbset, idtype){
         msigdata=read.table(msigfile, fill=TRUE, col.names=1:max(numcols))
         save(msigdata, file=rdatafile)
     }
-   ### FIX THIS HERE #### 
     ## remove any symbols not mapped from gencode
     if(idtype=="symbols") {
     	filt.msigdatafile=paste(HOMEDIR,"msigdb/rdata/", msigdbset,".", idtype, ".filtered.rdata", sep="")
@@ -37,7 +36,7 @@ get_msigdata = function(msigdbset, idtype){
 			mappedsymbols=as.vector(t(read.table(gencodemappedfile)))
     		newmsigdata=apply(msigdata, 1, function(msigdbgroup) {
     			currgroupgenes=msigdbgroup[3:length(msigdbgroup)]
-    			indstoconvert=which(!(currgroupgenes %in% mappedsymbols) && currgroupgenes!="")
+    			indstoconvert=which(!(currgroupgenes %in% mappedsymbols))
     			currgroupgenes[indstoconvert]=""
     			return(c(msigdbgroup[1:2], currgroupgenes))
     		})
@@ -79,7 +78,8 @@ get_gene.universe=function(idtype) {
 		gene.universe=45956
 	} else if (idtype=="symbols") {
 		## only consider universe as symbols that are mapped from gencode
-		gene.universe=as.vector(t(read.table(gencodemappedfile)))
+		mappedsymbols=as.vector(t(read.table(gencodemappedfile)))
+		gene.universe=length(mappedsymbols)
 	}
 	return(gene.universe)
 }
