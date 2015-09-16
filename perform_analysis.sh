@@ -14,8 +14,8 @@
 # You should have received a copy of the GNU General Public License
 # along with ChromDiff.  If not, see <http://www.gnu.org/licenses/>.
 
-source /broad/software/scripts/useuse
-reuse -q .r-3.0.2-bioconductor-2.13
+#source /broad/software/scripts/useuse
+#reuse -q .r-3.0.2-bioconductor-2.13
 
 property=$1
 a_label=$2
