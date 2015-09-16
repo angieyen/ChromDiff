@@ -1,5 +1,5 @@
 ## README file created by Angela Yen on March 13, 2015
-## Please contact angela@mit.edu with questions or for clarifications.i
+## Please contact angela@mit.edu with questions or for clarifications.
 
 # Copyright 2015 Angela Yen
 # # This file is part of ChromDiff.

@@ -1,9 +1,23 @@
-/test_all_properties.sh
-/test_in_parallel.sh
+# exclude directories that hold results files
 /jobs/
 /statecalls/
 /exp.pvals/
 /msigdb/rdata/
 /msigdb/results/
 /plots/
+/all_pvals/
+/sig_pvals/
+/backgrounds/
+/intersect/
+/featurenames/
+/genes/
+/perc/
+/majority/
+/rand_assignments/
+/sampled_assignments/
+/rdata/
+/expression/
+/sig_majority/
+/Rplots.pdf
 .DS_Store
+._.DS_Store
