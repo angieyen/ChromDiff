@@ -291,7 +291,7 @@ Step 3: Calculate background information, feature names, and check data:
 	./featnames_bgvals.sh $statecalls_label $generegions_label $states_info
 
 Step 4: Run ChromDiff on a particular epigenomic group comparison: 
-	./perform_analysis.R $property $a_option $b_option $test_type $correction $curr_label $heighcutoff $metadatafile
+	./perform_analysis.sh $property $a_option $b_option $test_type $correction $curr_label $heighcutoff $metadatafile
 
 
 RESULTS: 
