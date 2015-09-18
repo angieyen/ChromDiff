@@ -1,4 +1,5 @@
 # exclude directories that hold results files
+/simm/
 /jobs/
 /statecalls/
 /exp.pvals/
