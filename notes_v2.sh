@@ -55,4 +55,4 @@ heightcutoff=0
 ## Note: can run analysis the first time with default height cutoff of 0 for clustering 
 ## then look at plots/${curr_label}/${a_option}.${b_option}/perc/${test_type}/${correction}/hclust_domstate.pdf to choose manual cutoff
 curr_label="${statecalls_label}_${generegions_label}"
-./perform_analysis.sh $property $a_option $b_option $test_type $correction $heightcutoff $curr_label $metadatafile $genefile $covariate_mat_file $map_covariates_file $expfile $state_annotations_file $generegions_label 
+./perform_analysis.sh $property $a_option $b_option $test_type $correction $curr_label $heightcutoff $metadatafile $genefile $covariate_mat_file $map_covariates_file $expfile $state_annotations_file $generegions_label 
