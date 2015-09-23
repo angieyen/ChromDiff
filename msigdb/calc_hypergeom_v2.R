@@ -27,7 +27,7 @@ if(testone) {
 	genefile=paste0(reldir, "data/gencode_genes_full.txt")
 	covariate_mat_file=paste0(reldir, "data/cov.mat.txt")
 	map_covariates_file=paste0(reldir, "data/map_vars_covariates.txt")
-	expfile=paste0(reldir, "rnaseq/57epigenomes.RPKM.pc")
+	expfile=paste0(reldir, "data/57epigenomes.RPKM.pc")
 	state_annotations_file=paste0(reldir, "data/core_annotation.txt")
 	generegions_label="gencode_v10"
 }else{
