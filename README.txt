@@ -22,8 +22,14 @@ This folder "ChromDiff" contains the code and data for running ChromDiff on the 
 Part 0.1: Dependencies for ChromDiff include BedTools, awk, bash, and R. Please make sure these are installed and working before trying to run ChromDiff.
 
 Part 0.2a: Applying ChromDiff to Epigenomics Roadmap data, as described in Yen and Kellis, 2015: 
-The only data that was not included in this zipped file is the 15-state ChromHMM state calls. Download state call files of the form E***_15_coreMarks_mnemonics.bed.gz from http://www.broadinstitute.org/~anshul/projects/roadmap/segmentations/models/coreMarks/parallel/set2/final/ into the subdirectory statecalls/core/, which has already been created within this directory.
-Once the state calls have been downloaded, simply run ./notes_v2.sh to
+The only data that was not included in this zipped file is the 15-state ChromHMM state calls. The easiest way to download all these chromatin state calls is 
+to download the compressed .tar.gz directory at http://egg2.wustl.edu/roadmap/data/byFileType/chromhmmSegmentations/ChmmModels/coreMarks/jointModel/final/all.mnemonics.bedFiles.tgz. 
+Then, uncompress the directory and move all the contained files into the ChromDiff subdirectory statecalls/core/, which has already been created within this directory. 
+Alternatively, you can download all state call files of the form E***_15_coreMarks_mnemonics.bed.gz from 
+http://www.broadinstitute.org/~anshul/projects/roadmap/chromhmmSegmentations/ChmmModels/coreMarks/parallel/set2/final/ into the subdirectory statecalls/core/, which has already been created within this directory. 
+Generally, we are using the "Mnemonics bed files" of the "Core 15-state model_ described here: http://egg2.wustl.edu/roadmap/web_portal/chr_state_learning.html#core_15state
+
+Once the state calls have been downloaded an dmoved into the corresponding directory, simply run ./notes_v2.sh to
 reproduce the analysis, results, and figures. (NOTE: as described in Yen and
 Kellis, 2015, our gene list does not include chrY genes. Therefore, if you
 download our gene list in data/gencode_genes_full.txt, this will be a list of all
