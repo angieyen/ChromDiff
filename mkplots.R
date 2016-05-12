@@ -20,7 +20,7 @@ suppressMessages(library(gplots, quietly=TRUE))
 
 make.plots= function(property, group.a, group.b, a.label, b.label,  metric, test, test.correction, model, no_covariate_correction, sigfeat.plots=FALSE, figure1=FALSE, pval.plots=TRUE, random.plots=FALSE) {
    	print(test.correction) 
-	save(list=ls(all=TRUE), file="tmp.rdata")
+	#save(list=ls(all=TRUE), file="tmp.rdata")
 	sigpval.file=get_sigpval_file(model, metric, test, test.correction, property, a.label, b.label)
 	if(!file.exists(sigpval.file)) {
 		return()
@@ -119,7 +119,7 @@ plot.comp.genesizes=function(sig_genesizes, nonsig_genesizes, plot.subdir, pval)
 	ggsave(file)
 }
 plot.top.n <- function(orig.mat, ranks, limit, reorderRows, reorderCols, plotdir, filebase, heatcols, model, colorStates) {
-	save(list=ls(all=TRUE), file="tmp.brain.gi.rdata")
+	#save(list=ls(all=TRUE), file="tmp.brain.gi.rdata")
 	print(paste("Plotting top", limit, "features..."))
 	## for any values that are not in top n, set value to NA
 	default=NA
@@ -536,7 +536,7 @@ make.sigfeat.heatmaps <- function(matrix.a, matrix.b, a.label, b.label, sig.feat
 			 	repeat_genes <- names(gene_table)[which(gene_table>=2)]
 			 	norepeats=FALSE
 				if(length(repeat_genes)==0) {norepeats=TRUE}	
-				save(list=ls(all=TRUE), file="tmp2.rdata")	
+				#save(list=ls(all=TRUE), file="tmp2.rdata")	
 				## without matching or with no repeat genes, just directly order columns of matrix
 				if(!matched || norepeats) {
 					if(ncol(ordered.mat)==1) { dend.featnames=colnames(ordered.mat) } else {
