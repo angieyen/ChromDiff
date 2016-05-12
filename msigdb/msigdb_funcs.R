@@ -17,6 +17,7 @@ source("../setvars.R", chdir=T)
 library("qvalue") 
 gencodemappedfile=paste0(HOMEDIR, "genes/", generegions_label, "/gencode_mapped_symbols.bed")
 ## number of all human gene symbols taken from HUGO gene symbols on Feb 2014
+dir.create(paste0(HOMEDIR,"msigdb/rdata/"), showWarnings=FALSE)
 get_msigdata = function(msigdbset, idtype){
     rdatafile=paste0(HOMEDIR,"msigdb/rdata/", msigdbset,".", idtype, ".rdata")
     if(file.exists(rdatafile)) {
